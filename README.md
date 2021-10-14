@@ -1,6 +1,6 @@
 <h1 align="center">Yo soy Kapil Pramod Deshmukh</h1>
 
-<img src="./assets/banner.gif" alt="banner" width="100%"/>
+<img src="./banner.gif" alt="banner" width="100%"/>
 
 <h3 align="center">A passionate backend developer from Pune, India</h3>
 
