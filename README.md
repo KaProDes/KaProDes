@@ -1,7 +1,6 @@
 <h1 align="center">I am Kapil Pramod Deshmukh</h1>
 
-[Profile bot marks this Readme as outdated: Last Date to Update was 12 April 2021]
-<img src="./banner_new.gif" alt="banner" width="100%"/>
+<!-- <img src="./banner_new.gif" alt="banner" width="100%"/> -->
 
 <h3 align="center">A passionate backend developer from Pune, India</h3>
 
@@ -9,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaprodes" alt="kaprodes" /></a> </p>
 
-- 🔭 I’m currently working on **Graph theoretic algorithms**
+- 🔭 I’m currently working as a **Full Stack Web Developer**
 
 - 🌱 I’m currently learning **Advanced Data Structures and Algorithms**
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **deshmukhkapil4@gmail.com**
 
-- ⚡ Fun fact **hablo español con fluidez**
+- ⚡ Fun fact **I have a virtual intern**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
