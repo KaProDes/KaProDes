@@ -6,17 +6,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaprodes&label=Profile%20views&color=0e75b6&style=flat" alt="kaprodes" /> </p>
 
+
 <h3>Experience:</h3>
 
 - Currently working at <a href="https://www.toddleapp.com/" target="_blank">Toddle</a>, enhancing the Learning and Teaching experiences of students across 100+ countries in 1500+ schools.
 
-- I’m currently learning **Advanced Data Structures and Algorithms, Redis, LLM Product Integration and AWS Tooling**
+- Working on Scalable backend systems ensuring low response times, handling large scale - semi structured data and providing impactful solutions that save an estimated 50 hours per year teacher.
 
-- Ask me about **NodeJs, React, GraphQL, SQL and Shell Scripting**
+- I have a Bachelors in Computer Science from University Jaipur and have dropped out from IIT Guwhati's Masters Programme.
 
-- How to reach me **deshmukhkapil4@gmail.com**
+- Previously, I interned at [Dell](https://www.dell.com/en-in/lp/dt/workloads-analytics) with their Enterprise Business Information Analytics Team.
 
-- Fun fact: **I enjoying writing shell scripts to automate everything** - I practically live in the Terminal
+- Have also contributed as Web Development Intern to CampK12 - an EdTech startup that was ahead of its time.
 
 
 <h3>About Me:</h3>
